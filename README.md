@@ -1,6 +1,6 @@
 # Priyam Jha Portfolio
 
-A digital resume website built based on the content from my personal REAL [resume](.assets/PRIYAM JHA.pdf) 
+A digital resume website built based on the content from my personal REAL [resume](https://github.com/priyamjha/My_Portfolio/blob/e5a89014ab20075e0370ad52abf5220089e77192/assets/PRIYAM%20JHA.pdf)
 
 View live demo here using github pages: [Live Demo](https://priyamjha.github.io/My_Portfolio/)
 
